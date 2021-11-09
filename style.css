@@ -1,3 +1,40 @@
-header {
-  color: blue
+#title-font {
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki
+}
+
+.title-font {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+img {
+  padding-top: 20px;
+}
+
+.description {
+  padding-bottom: 20px;
+}
+
+.inner-text {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+#green-background {
+  background-color: mediumspringgreen;
+}
+
+#red-background {
+  background-color: lightcoral;
+}
+
+#blue-background {
+  background-color: skyblue;
 }
